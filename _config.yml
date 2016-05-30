@@ -1,0 +1,28 @@
+name: The Works Enterprises
+favicon: null
+layout_spectrum: 0.25293072033673525
+typography_spectrum: 0.4890535809099674
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5363260409794748
+  lightness: 0.9105435402598232
+  saturation: 0.14262946252711117
+  rhythmicContrast: 0.759457329986617
+purpose: []
